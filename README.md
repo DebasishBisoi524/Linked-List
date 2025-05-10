@@ -16,25 +16,27 @@ This repository contains a clean and modular **Java implementation of a singly l
 ## 📂 Folder Structure
 
 ```
-Linked-List/
-├── node/
-│   └── Node.java         # Node class with data and next pointer
-├── Main.java             # Driver class to demonstrate operations
-└── README.md             # Project documentation
+PR/
+├── main/
+│   ├── Main.class        # Compiled class file for Main
+│   └── main.java         # Driver class to demonstrate operations
+└── node/
+    ├── Node.class        # Compiled class file for Node
+    └── Node.java         # Node class with data and next pointer
 ```
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Linked-List.git
+   git clone https://github.com/DebasishBisoi524/Linked-List.git
    cd Linked-List
    ```
 
 2. Compile and run:
    ```bash
-   javac Main.java node/Node.java
-   java Main
+   javac main/main.java node/Node.java
+   java main.Main
    ```
 
 > ⚠️ Make sure Java is installed on your system.
@@ -61,7 +63,7 @@ The Length of the Linked List is: XX
 
 ## 👨‍💻 Author
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/DebasishBisoi524)
 
 ---
 
