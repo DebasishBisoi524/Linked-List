@@ -63,7 +63,7 @@ The Length of the Linked List is: XX
 
 ## 👨‍💻 Author
 
-- [Your Name](https://github.com/DebasishBisoi524)
+- [Debasish Bisoi](https://github.com/DebasishBisoi524)
 
 ---
 
